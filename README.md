@@ -10,4 +10,4 @@ Open a browser and navigate to the following URL:
        
 To view the list of all destinations from the server, click Get All Destination.
 
-![20487D_Images](https://github.com/ialcaidef/Manipulating-Data/blob/master/DAL.Test/01.png)
+![20487D_Images](https://github.com/ialcaidef/Consuming-Services-by-Using-JavaScript/blob/master/Images/01.png)
